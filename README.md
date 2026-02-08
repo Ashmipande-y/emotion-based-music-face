@@ -1,23 +1,70 @@
-# emotion-based-music
-<h1>Explaination Video</h1>
-<a href="https://youtu.be/uDzLxos0lNU">Emotion based music | ai | deep learning project | with code | ml project</a>
-<a href="https://youtu.be/uDzLxos0lNU"><img src="emotion.jpg"/></a>
+Emotion-Aware Music Recommendation System Using  AI
+-> Project Overview
 
-<h1>Description</h1>
-Welcome to new project emotion based music built by using mediapipe and keras. also opencv and streamlit is used to create a webapp. for capturing the webcam in the browser i used streamlit-webrtc module. I explained all of the code in this video which is required to create a webapp for emotion based music recommender.
-<br><br>
-In this video I used live emoji project code to create a model which could classify different emotions so I already explained the code for that which is over here
-<br>Data Collection script : https://youtu.be/ZxZSGRdTLtE
-<br>Data Training and Inference script : https://youtu.be/He_oZ-MnIrU
-<br>code for live emoji : https://github.com/Pawandeep-prog/liveEmoji
+This project is an AI-powered music recommendation system that detects a user’s emotional state using facial emotion recognition. Based on the detected emotion, it provides personalized music recommendations to support emotional well-being and stress management, especially for students.
 
-<h1>Connect with me</h1>
-If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-facebook : https://m.facebook.com/proogramminghub<br>
-instagram : @programming_hut<br>
-twitter : https://twitter.com/programming_hut<br>
-github : https://github.com/Pawandeep-prog<br>
-discord : https://discord.gg/G5Cunyg<br>
-linkedin : https://www.linkedin.com/in/programminghut<br>
-youtube : https://www.youtube.com/c/programminghutofficial<br>
-# emotion-based-music-face
+-> Objective
+
+To detect real-time emotions using  visual data
+
+To recommend music that helps improve mood, focus, and relaxation
+
+To provide a non-intrusive and user-friendly emotional wellness solution
+
+-> Key Features
+
+Real-time emotion detection using Facial data
+
+Facial emotion recognition using MediaPipe
+
+AI-based emotion classification model
+
+Personalized music recommendations via Spotify
+
+Web-based interface built using Streamlit
+
+Designed for stress management and emotional regulation
+
+-> Technology Stack
+
+Programming Language: Python
+
+Frontend: Streamlit
+
+AI / ML: Keras, NumPy
+
+Computer Vision: OpenCV, MediaPipe
+
+Music Platform: Spotify API
+
+Hardware (Optional):  wearable device
+
+-> Target Audience
+
+College and university students experiencing academic stress
+
+Educational institutions and counseling centers
+
+Future scope includes working professionals and corporate wellness programs
+
+-> Project Status
+
+Basic AI model developed
+
+Emotion detection functionality implemented
+
+Spotify-based music recommendation integrated
+
+Currently in prototype stage
+
+-> Future Enhancements
+
+Improve emotion detection accuracy
+
+Full integration with wearable devices
+
+User personalization and analytics dashboard
+
+Mobile application development
+
+Large-scale user testing and validation
